@@ -1,4 +1,4 @@
-# My Agenda
+# MyAgend
 
 A simple and elegant agenda browser extension to help you stay organized.
 
